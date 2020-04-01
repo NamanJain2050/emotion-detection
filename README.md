@@ -104,7 +104,6 @@ Source: https://www.kaggle.com/eray1yildiz/emotion-classification <br>
     <td>19390</td>
     <td>9171</td>		
     <td>7634</td>	
-    <td>22114</td>
     <td>5529</td>		
     <td>2395</td>
   </tr>
@@ -114,7 +113,6 @@ Source: https://www.kaggle.com/eray1yildiz/emotion-classification <br>
     <td>24238</td>
     <td>11463</td>		
     <td>9542</td>	
-    <td>22114</td>
     <td>6911</td>		
     <td>2994</td>
   </tr>
@@ -124,7 +122,6 @@ Source: https://www.kaggle.com/eray1yildiz/emotion-classification <br>
     <td>121187</td>
     <td>57317</td>		
     <td>47712</td>	
-    <td>22114</td>
     <td>34554</td>		
     <td>14972</td>
   </tr>
